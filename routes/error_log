@@ -1,0 +1,28 @@
+[27-Jan-2019 06:42:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:42:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:42:52 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/btcgenui/public_html/wellwishers/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/btcgenui/public_html/wellwishers/routes/web.php on line 14
+[27-Jan-2019 06:44:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:44:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:44:23 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/btcgenui/public_html/wellwishers/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/btcgenui/public_html/wellwishers/routes/console.php on line 16
+[27-Jan-2019 06:46:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:46:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:46:21 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 06:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/btcgenui/public_html/wellwishers/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/btcgenui/public_html/wellwishers/routes/channels.php on line 14
+[27-Jan-2019 17:16:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 17:16:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 17:16:20 UTC] PHP Warning:  Module 'timezonedb' already loaded in Unknown on line 0
+[27-Jan-2019 17:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/btcgenui/public_html/wellwishers/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/btcgenui/public_html/wellwishers/routes/api.php on line 16

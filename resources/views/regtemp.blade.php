@@ -1,0 +1,1 @@
+welcome to wellwishersadvertisers your username is {{ $name }} and your password is only known to you please keep it private
